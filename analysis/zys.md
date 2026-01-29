@@ -109,3 +109,17 @@ do the events chosen by the home country impact results?
 
 ## 未完待续
 
+# 论文需要的重要部分
+
+summary
+
+我们的任务有哪些；我们的工作流程图；notations
+
+我们的假设，一定要合理；
+
+数据预处理不要忘记。
+
+建模
+
+模型检验不要忘记。
+
